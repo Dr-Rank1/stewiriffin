@@ -18,19 +18,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa University. Working primarily from my **Ubuntu** environment, I focus on building clean, scalable APIs and web applications across the Python and JavaScript ecosystems. I also ship native and cross-platform mobile apps, alongside exploring game development.
+I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa University. Working primarily from my Ubuntu environment, I focus on building clean, scalable APIs and web applications across the Python and JavaScript ecosystems. I also ship native and cross-platform mobile apps, alongside exploring game development.
 
-- 🚀 Currently shipping mobile utility apps like **Pazia** (Kotlin/Jetpack Compose) and **QR Vault**.
-- 🎮 Exploring 3D game development with Unity (**Bodaboda Hustle: Beba Beba!**).
-- ⚙️ Deeply interested in **Machine Learning**, **System Design**, and Linux architecture.
-- 💼 Freelance developer on Fiverr with **4+ years** of experience shipping production code.
-- 📱 Published multiple apps on the Google Play Store.
+- Currently shipping mobile utility apps like Pazia (Kotlin/Jetpack Compose) and QR Vault.
+- Exploring 3D game development with Unity (Bodaboda Hustle: Beba Beba!).
+- Deeply interested in Machine Learning, System Design, and Linux architecture.
+- Freelance developer on Fiverr with 4+ years of experience shipping production code.
+- Published multiple apps on the Google Play Store.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,nextjs,react,ts&perline=8" alt="Backend & Web" /><br>
@@ -40,7 +40,7 @@ I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa 
 
 ---
 
-## 📂 Featured Work
+## Featured Work
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stewiriffin&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1f1f1f&title_color=059669&icon_color=059669&text_color=eeeeee&hide_rank=true&hide_title=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
