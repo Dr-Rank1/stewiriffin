@@ -18,15 +18,15 @@
 
 ---
 
-## About Me
+## Hello, I am Ian Gicheha Mbae
 
-I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa University. Working primarily from my Ubuntu environment, I focus on building clean, scalable APIs and web applications across the Python and JavaScript ecosystems. I also ship native and cross-platform mobile apps, alongside exploring game development.
+I am a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa University. Working primarily from my Ubuntu environment, I focus on building clean, scalable APIs and web applications across the Python and JavaScript ecosystems. I also ship native and cross-platform mobile apps, alongside exploring game development.
 
-- Currently shipping mobile utility apps like Pazia (Kotlin/Jetpack Compose) and QR Vault.
-- Exploring 3D game development with Unity (Bodaboda Hustle: Beba Beba!).
+- Currently shipping mobile utility applications like Pazia (Kotlin/Jetpack Compose) and QR Vault.
+- Exploring 3D game development with Unity (Bodaboda Hustle: Beba Beba).
 - Deeply interested in Machine Learning, System Design, and Linux architecture.
-- Freelance developer on Fiverr with 4+ years of experience shipping production code.
-- Published multiple apps on the Google Play Store.
+- Freelance developer with over 4 years of experience shipping production code.
+- Published multiple applications on the Google Play Store.
 
 ---
 
@@ -50,7 +50,7 @@ I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa 
     </td>
     <td width="50%" valign="top">
       <h3>QR Vault</h3>
-      <p>Production-ready Flutter app for generating and scanning QR/barcodes. Published on Google Play Console.</p>
+      <p>Production-ready Flutter application for generating and scanning QR/barcodes. Published on Google Play Console.</p>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.dr_rank.qrcodescanner&hl=en_US"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
       </p>
@@ -58,24 +58,24 @@ I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Bodaboda Hustle: Beba Beba!</h3>
+      <h3>Bodaboda Hustle: Beba Beba</h3>
       <p>3D hyper-casual mobile math runner game built in Unity with automated movement and lane-shifting mechanics.</p>
     </td>
     <td width="50%" valign="top">
       <h3>WhatsApp Automation</h3>
-      <p>Python automation suite for WhatsApp Business API — messaging, notifications, and workflow orchestration.</p>
+      <p>Python automation suite for WhatsApp Business API for messaging, notifications, and workflow orchestration.</p>
       <p><a href="https://github.com/stewiriffin/Whatsapp-business-automation"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Rank Football</h3>
-      <p>Stream-focused Android app — live fixtures, leagues, calendar, and playback with custom stream sources.</p>
+      <p>Stream-focused Android application for live fixtures, leagues, calendar, and playback with custom stream sources.</p>
       <p><a href="https://github.com/stewiriffin/Football"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Gretsa Portal v2</h3>
-      <p>University student and staff portal — course registration, results, and administrative workflows.</p>
+      <p>University student and staff portal for course registration, results, and administrative workflows.</p>
       <p><a href="https://github.com/stewiriffin/Gretsa-Portal-v2"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a></p>
     </td>
   </tr>
@@ -105,7 +105,7 @@ I'm a Full-Stack Software Developer currently pursuing a B.Sc. in ICT at Gretsa 
 ---
 
 <div align="center">
-  <i>Let's build something great together.</i><br>
-  <a href="mailto:mbaegicheha@gmail.com"><strong>mbaegicheha@gmail.com</strong></a> ·
+  <i>Let us build something great together.</i><br>
+  <a href="mailto:mbaegicheha@gmail.com"><strong>mbaegicheha@gmail.com</strong></a> |
   <a href="https://ianmbae.dev">ianmbae.dev</a>
 </div>
